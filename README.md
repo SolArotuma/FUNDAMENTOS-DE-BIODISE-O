@@ -1,5 +1,5 @@
 # FUNDAMENTOS DE BIODISEÑO
-Repositorio del curso (Open Hardware)
+Repositorio del curso
 ### Asesores:
 - Ing. Juan Manuel Zúñiga
 - Ing. Paulo Vela
